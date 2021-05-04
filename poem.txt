@@ -3,4 +3,5 @@ The Rainbow
 purple,
 pink,
 yellow,
-green
+green,
+orange
